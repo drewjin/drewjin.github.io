@@ -17,13 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yijie Drew Jin (preferred to be called Drew) is a undergraduate in Computer Science and Technology at Shanghai University.
+Hello there! My name is Yijie Jin (金义杰). I am currently an undergraduate student at the Department of Computer Science and Technology, School of Computer Engineering and Science, Shanghai University.
 
-My research interest includes  and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My English name is **Drew**. In English-speaking contexts, I prefer to use Drew as my middle name, so my full name can be Yijie Drew Jin. Feel free to address me by any of these names—whether it’s Yijie, Drew, or Jin—I’m happy to respond to any of them!
+
+My primary research interests are in 3D reconstruction, with a focus on Neural Radiance Field (NeRF), and its applications using multi-model data. I am also interested in robotics, specifically simultaneous localization and mapping (SLAM). My papers  are accepted at prestigious AI conferences such as CVPR, ICCV, ECCV, and NeurIPS. I also serve as reviewers on well known journals including TPAMI, TOMM, and TIP. Please feel free to comment on Github  for further discussion on my works.
+
+In my spare time, I enjoy cooking, playing basketball, listening to music, and learning about starting a business.
+
+Recently,
+
+- I am investigating on 3D/4D scene reconstruction and generation.
 
 # 🤓 Blogs
 
 All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www.zhihu.com/people/drew-44-8).
+
+*I regularly update my blog with a variety of content, including experience sharing, technical coding tutorials, academic paper discussions, personal career insights, and casual life reflections—all written in a relaxed and conversational style.*
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
