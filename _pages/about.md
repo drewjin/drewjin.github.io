@@ -39,7 +39,7 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/gsit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Under Review)</div><img src='images/gsit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal Transformers are Hierarchical Modal-wise Heterogeneous Graphs]()
@@ -47,7 +47,8 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 **Yijie Jin**, Junjie Peng, Xuanchao Lin, Haochen Yuan, Lan Wang, Cangzhi Zheng
 
 [**Project**](https://github.com/drewjin/GsiT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The official code of GsiT is available on GitHub. 
+- **Efficiency and Effectiveness**: 1/3 number of parameters without additional computational overhead compared with traditional MulTs.
+- Block-Sparse Attention (Triton Kernel) and All-Modal-In-One Fusion.
 </div>
 </div>
 
@@ -71,3 +72,51 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 # 💻 Internships
 
 - *2024.03 - (now)*, Research Intern, SJTU DengLab, Shanghai Jiaotong University, Shanghai, China.
+
+# ⚽️ Hobbies
+
+## Sports
+
+- **Soccer**: Paris Saint-Germain (PSG), Neymar Jr.
+
+- **Basketball**: Golden State Warriors (GSW), Stephen Curry.
+
+## Music
+
+Honestly speaking, I love music, especially American music.
+
+*Listen to albums instead of singles*
+
+- **Pop**: Taylor Swift, Ed Sheeran, Justin Bieber, etc.
+
+- **Hip-Hop**: Kanye West (Ye), Eminem, etc.
+
+- **Rock**: Coldplay, etc.
+
+- **R&B**: Usher, The Weekend, Ariana Grande, etc.
+
+- **Folk**: Leonard Cohen, Bon Iver, etc.
+
+- **Country**: Alison Krauss, Alan Jackson, etc.
+
+- **ELectronic**: The Chainsmokers, Martin Garrix, Marshmello, etc.
+
+- **CN Pop**: Jay Chou, David Tao, Weibird, etc.
+
+## Movies
+
+- **Science Fiction**: Star Wars, Star Trek, Wandering Earth, Intesteller, Inception, The Matrix, etc.
+
+- **Super Hero**: All DC (Zack Snyder Directed), All Marvel (End Game and earlier pieces), Batman Series (Christopher Nonan Directed), Watchmen, etc.
+
+- **Others**: all of the classic movies.
+
+## Books
+
+- **Science Fiction**: The Three-Body Problem Trilogy, Foundation Series, Robot Series, Dune, Hyperion Cantos, etc.
+
+- **Fantasy**: ​A Song of Ice and Fire, Harry Potter, The Chronicles of Narnia, etc.
+
+- **Chinese Fantasy**: Battle Through the Heavens, Dragon Raja, Shanghai Fortress (the novel, not the movie), etc.
+
+- **Others**: The Century Trilogy, and most of the classic books.
