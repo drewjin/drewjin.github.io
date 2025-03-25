@@ -25,7 +25,16 @@ I am passionate about advancing **Machine Learning Systems (MLSys)**, with a str
 
 Recently,
 
-- I have been serving as an intern with Prof. [Zhijie Deng](https://scholar.google.com/citations?user=J3dR0sUAAAAJ&hl=en) at Shanghai Jiaotong University (SJTU), diving into Edge LLM deployment with all sorts of LLM reasoning & inference optimization.
+- I have been serving as a Research Intern with Prof. [Zhijie Deng](https://scholar.google.com/citations?user=J3dR0sUAAAAJ&hl=en) at Shanghai Jiaotong University (SJTU), diving into Edge LLM deployment with all sorts of LLM reasoning & inference optimization.
+
+- Currently learning all kinds of stacks: 
+  - **Lang**: Triton, CPP (keeps on learning, diving in), Golang in backend development, Vue in frontend development.
+  - **MLSys/Efficient LLMs**: parallel decoding, efficient reasoning, kv compression, etc. (hard! hard! hard!)
+  - **LLM Reasoning**: all kinds of reasoning tasks, especially reasoning pruning.
+
+- Planning to learn: Ray, TileLang, practice my leetcode ablitiy, etc.
+
+- Projects planning to work on: minitorch.
 
 # 🤓 Blogs
 
@@ -71,7 +80,9 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 # 💻 Internships
 
-- *2024.03 - (now)*, Research Intern, SJTU DengLab, Shanghai Jiaotong University, Shanghai, China.
+- *2025.03 - (now)*, Research Intern, SJTU DengLab, Shanghai Jiaotong University, Shanghai, China.
+
+- *2023.11 - (now)*, Research Assistant, LITS, Shanghai University, Shanghai, China.
 
 # ⚽️ Hobbies
 
