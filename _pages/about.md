@@ -80,6 +80,13 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 - *2022.09 - (now)*, Undergrad., Shanghai University. 
 
+- *2019.09 - 2022.07*, Senior High., The Affiliated High School of Sichuan University (Chengdu NO.12 High School). 
+
+- *2016.09 - 2019.07*, Junior High., Chengdu No.7 High School (Chengdu High School).
+
+- *2010.09 - 2016.06*, Primary School, Chengdu Paotongshu Primary School.
+
+
 # 💬 Invited Talks
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
