@@ -40,7 +40,7 @@ Recently,
 
 - **Lang**: Skillful Python; Naive C/CPP/CUDA; Learning Golang, JS/TS
 
-- **Frameworks**: Skillful PyTorch; Naive LibTorch, JAX + Haiku, Triton; Learning Gin+Gorm, Vue
+- **Frameworks**: Skillful PyTorch; Naive LibTorch, JAX + Haiku, Triton; Learning Gin + Gorm, Vue
 
 - **Tools**: All toolchains in Visual Studio Code; vscode-clangd-CMake-toolchain, Git, Linux, MacOS (UNIX), Docker
 
