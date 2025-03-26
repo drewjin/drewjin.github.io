@@ -36,6 +36,14 @@ Recently,
 
 - Projects planning to work on: minitorch.
 
+# 🤔 Skills
+
+- **Lang**: Skillful Python; Naive C / CPP / CUDA; Learning Golang, JS/TS
+
+- **Frameworks**: Skillful PyTorch; Naive LibTorch, JAX / Haiku, Triton; Learning Gin/Gorm, Vue
+
+- **Tools**: All toolchain in Visual Studio Code; vscode-clangd-CMake-toolchain, Git, Linux, MacOS (UNIX), Docker
+
 # 🤓 Blogs
 
 All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www.zhihu.com/people/drew-44-8).
