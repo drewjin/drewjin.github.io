@@ -84,7 +84,7 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 - *2016.09 - 2019.07*, Junior High., Chengdu No.7 High School (Chengdu High School).
 
-- *2010.09 - 2016.06*, Primary School, Chengdu Paotongshu Primary School.
+- *2010.09 - 2016.07*, Primary School, Chengdu Paotongshu Primary School.
 
 
 # 💬 Invited Talks
