@@ -73,8 +73,15 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 # 🎖 Honors and Awards
 
-- *2025.03* **First Prize** of ASC 25 (NO.5 Worldwide). 
-- *2023.09* Shanghai University Academic Excellence **Top** Scholarship (Rank 15 in 1500). 
+- *2025.03* **First Prize** of 2025 Asia Supercomputer Community Student Supercomputer Challenge (ASC 25, NO.5 Worldwide). 
+
+- *2024.11* **Second Prize** of Shanghai Area in The 2024 China Undergraduate Mathematical Contest in Modeling (CUMCM 2024).
+
+- *2024.11* Shanghai University Academic Excellence **First-class** Scholarship. 
+
+- *2024.08* **First Prize** of The 14th Asia and Pacific Mathematical Contest in Modeling (APMCM 2024). 
+
+- *2023.11* Shanghai University Academic Excellence **Top-class** Scholarship (Rank 15 in 1500). 
 
 # 📖 Educations
 
@@ -96,6 +103,8 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 # 💻 Internships
 
 - *2025.03 - (now)*, Research Intern, SJTU DengLab, Shanghai Jiaotong University, Shanghai, China.
+
+- *2024.10 - 2024.12*, Research Intern, NLP Group, Hongkong University of Science and Technology Guangzhou (HKUST-gz), Guangzhou, China.
 
 - *2023.11 - (now)*, Research Assistant, LITS, Shanghai University, Shanghai, China.
 
