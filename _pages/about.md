@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+> Two words, anxious, focus, break out, sink down, runaway, keep stay, feel it, try it, crush it, make it, everybody move. -- imitating *Two Words, Kanye West*
+
 Hello there! My name is Yijie Jin (金义杰). I am currently an undergraduate student at the Department of Computer Science and Technology, School of Computer Engineering and Science, Shanghai University (SHU), supervised by Prof. [Junjie Peng](https://scholar.google.com/citations?hl=en&user=l7IPf0sAAAAJ&view_op=list_works&sortby=pubdate).
 
 My English name is **Drew**. In English-speaking contexts, I prefer to use Drew as my middle name, so my full name can be Yijie Drew Jin. Feel free to address me by any of these names—whether it’s Yijie, Drew, or Jin—I'm happy to respond to any of them!
@@ -48,7 +50,7 @@ Recently,
 
 All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www.zhihu.com/people/drew-44-8).
 
-*I regularly update my blog with a variety of content, including experience sharing, technical coding tutorials, academic paper discussions, personal career insights, and casual life reflections—all written in a relaxed and conversational style.*
+> I regularly update my blog with a variety of content, including experience sharing, technical coding tutorials, academic paper discussions, personal career insights, and casual life reflections—all written in a relaxed and conversational style.
 
 # 🔥 News
 
@@ -111,15 +113,15 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 <details>
   <summary>Click to Explore More About Me</summary>
   
-  <h4>⚽️ Hobbies</h4>
+  <h1>⚽️ Hobbies</h1>
   
-  <h4>Sports</h4>
+  <h2>Sports</h2>
   <ul>
     <li><strong>Soccer</strong>: Paris Saint-Germain (PSG), Neymar Jr.</li>
     <li><strong>Basketball</strong>: Golden State Warriors (GSW), Stephen Curry.</li>
   </ul>
   
-  <h4>Music</h4>
+  <h2>Music</h2>
   <p>
     Honestly speaking, I love music, especially American music. *Listen to albums instead of singles*.
   </p>
@@ -134,18 +136,21 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
     <li><strong>CN Pop</strong>: Jay Chou, David Tao, Weibird, etc.</li>
   </ul>
   
-  <h4>Movies</h4>
+  <h2>Movies</h2>
   <ul>
     <li><strong>Science Fiction</strong>: Star Wars, Star Trek, Wandering Earth, Interstellar, Inception, The Matrix, etc.</li>
     <li><strong>Super Hero</strong>: All DC (Zack Snyder Directed), All Marvel (End Game and earlier pieces), Batman Series (Christopher Nolan Directed), Watchmen, etc.</li>
     <li><strong>Others</strong>: all of the classic movies.</li>
   </ul>
   
-  <h4>Books</h4>
+  <h2>Books</h2>
   <ul>
     <li><strong>Science Fiction</strong>: The Three-Body Problem Trilogy, Foundation Series, Robot Series, Dune, Hyperion Cantos, etc.</li>
     <li><strong>Fantasy</strong>: A Song of Ice and Fire, Harry Potter, The Chronicles of Narnia, etc.</li>
     <li><strong>Chinese Fantasy</strong>: Battle Through the Heavens, Dragon Raja, Shanghai Fortress (the novel, not the movie), etc.</li>
     <li><strong>Others</strong>: The Century Trilogy, and most of the classic books.</li>
   </ul>
+
+  <h1>🧑‍🤝‍🧑Friends of Mine</h1>
+  
 </details>
