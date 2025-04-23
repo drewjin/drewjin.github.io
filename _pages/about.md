@@ -110,6 +110,9 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 # ⚽️ Hobbies
 
+<details>
+  <summary>Click to Expand</summary>
+
 ## Sports
 
 - **Soccer**: Paris Saint-Germain (PSG), Neymar Jr.
@@ -155,3 +158,5 @@ Honestly speaking, I love music, especially American music.
 - **Chinese Fantasy**: Battle Through the Heavens, Dragon Raja, Shanghai Fortress (the novel, not the movie), etc.
 
 - **Others**: The Century Trilogy, and most of the classic books.
+
+</details>
