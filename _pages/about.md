@@ -65,7 +65,7 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 [**Project**](https://github.com/drewjin/GsiT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - **Efficiency and Effectiveness**: 1/3 number of parameters without additional computational overhead compared with traditional MulTs.
-- Block-Sparse Attention (Triton Kernel) and All-Modal-In-One Fusion.
+- Modal-wise Block-Sparse Attention and All-Modal-In-One Fusion.
 </div>
 </div>
 
