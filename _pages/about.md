@@ -109,7 +109,7 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 - *2023.11 - (now)*, Research Assistant, LITS, Shanghai University, Shanghai, China.
 
 <details>
-  <summary>Click to expand my hobbies</summary>
+  <summary>Click to Explore More About Me</summary>
   
   <h4>⚽️ Hobbies</h4>
   
