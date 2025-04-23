@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-> Two words, anxious, focus, break out, sink down, runaway, keep stay, feel it, try it, crush it, make it, everybody move. -- imitating *Two Words, Kanye West*
+> Two words, anxious, focus, break out, sink down, runaway, keep stay, feel it, try it, crush it, make it, everybody move. ---- imitating **Two Words, Kanye West**
 
 Hello there! My name is Yijie Jin (金义杰). I am currently an undergraduate student at the Department of Computer Science and Technology, School of Computer Engineering and Science, Shanghai University (SHU), supervised by Prof. [Junjie Peng](https://scholar.google.com/citations?hl=en&user=l7IPf0sAAAAJ&view_op=list_works&sortby=pubdate).
 
