@@ -110,31 +110,42 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 <details>
   <summary>Click to expand my hobbies</summary>
-  <h2>⚽️ Hobbies</h2>
   
-  <h3>Sports</h3>
-  - **Soccer**: Paris Saint-Germain (PSG), Neymar Jr.
-  - **Basketball**: Golden State Warriors (GSW), Stephen Curry.
-
-  <h3>Music</h3>
-  Honestly speaking, I love music, especially American music. *Listen to albums instead of singles*
-  - **Pop**: Taylor Swift, Ed Sheeran, Justin Bieber, etc.
-  - **Hip-Hop**: Kanye West (Ye), Eminem, etc.
-  - **Rock**: Coldplay, etc.
-  - **R&B**: Usher, The Weekend, Ariana Grande, etc.
-  - **Folk**: Leonard Cohen, Bon Iver, etc.
-  - **Country**: Alison Krauss, Alan Jackson, etc.
-  - **Electronic**: The Chainsmokers, Martin Garrix, Marshmello, etc.
-  - **CN Pop**: Jay Chou, David Tao, Weibird, etc.
-
-  <h3>Movies</h3>
-  - **Science Fiction**: Star Wars, Star Trek, Wandering Earth, Interstellar, Inception, The Matrix, etc.
-  - **Super Hero**: All DC (Zack Snyder Directed), All Marvel (End Game and earlier pieces), Batman Series (Christopher Nolan Directed), Watchmen, etc.
-  - **Others**: all of the classic movies.
-
-  <h3>Books</h3>
-  - **Science Fiction**: The Three-Body Problem Trilogy, Foundation Series, Robot Series, Dune, Hyperion Cantos, etc.
-  - **Fantasy**: A Song of Ice and Fire, Harry Potter, The Chronicles of Narnia, etc.
-  - **Chinese Fantasy**: Battle Through the Heavens, Dragon Raja, Shanghai Fortress (the novel, not the movie), etc.
-  - **Others**: The Century Trilogy, and most of the classic books.
+  <h4>⚽️ Hobbies</h4>
+  
+  <h4>Sports</h4>
+  <ul>
+    <li><strong>Soccer</strong>: Paris Saint-Germain (PSG), Neymar Jr.</li>
+    <li><strong>Basketball</strong>: Golden State Warriors (GSW), Stephen Curry.</li>
+  </ul>
+  
+  <h4>Music</h4>
+  <p>
+    Honestly speaking, I love music, especially American music. *Listen to albums instead of singles*.
+  </p>
+  <ul>
+    <li><strong>Pop</strong>: Taylor Swift, Ed Sheeran, Justin Bieber, etc.</li>
+    <li><strong>Hip-Hop</strong>: Kanye West (Ye), Eminem, etc.</li>
+    <li><strong>Rock</strong>: Coldplay, etc.</li>
+    <li><strong>R&B</strong>: Usher, The Weeknd, Ariana Grande, etc.</li>
+    <li><strong>Folk</strong>: Leonard Cohen, Bon Iver, etc.</li>
+    <li><strong>Country</strong>: Alison Krauss, Alan Jackson, etc.</li>
+    <li><strong>Electronic</strong>: The Chainsmokers, Martin Garrix, Marshmello, etc.</li>
+    <li><strong>CN Pop</strong>: Jay Chou, David Tao, Weibird, etc.</li>
+  </ul>
+  
+  <h4>Movies</h4>
+  <ul>
+    <li><strong>Science Fiction</strong>: Star Wars, Star Trek, Wandering Earth, Interstellar, Inception, The Matrix, etc.</li>
+    <li><strong>Super Hero</strong>: All DC (Zack Snyder Directed), All Marvel (End Game and earlier pieces), Batman Series (Christopher Nolan Directed), Watchmen, etc.</li>
+    <li><strong>Others</strong>: all of the classic movies.</li>
+  </ul>
+  
+  <h4>Books</h4>
+  <ul>
+    <li><strong>Science Fiction</strong>: The Three-Body Problem Trilogy, Foundation Series, Robot Series, Dune, Hyperion Cantos, etc.</li>
+    <li><strong>Fantasy</strong>: A Song of Ice and Fire, Harry Potter, The Chronicles of Narnia, etc.</li>
+    <li><strong>Chinese Fantasy</strong>: Battle Through the Heavens, Dragon Raja, Shanghai Fortress (the novel, not the movie), etc.</li>
+    <li><strong>Others</strong>: The Century Trilogy, and most of the classic books.</li>
+  </ul>
 </details>
