@@ -54,11 +54,15 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 # 🔥 News
 
-- *2025.03*: &nbsp;🎉🎉 I and our team win the **First Prize** (NO.5 Worldwide) in the Preliminary Round of 2025 ASC Student Supercomputer Challenge (ASC25). 
+- *2025.05*: &nbsp;🎉🎉 GsiT accepted by ACL 2025 (main). 
+
+- *2025.05*: &nbsp;🎉🎉 I and our team (SHU Optimus) make it NO.7 Worldwide in the Final Round of ASC 2025 Student Supercomputer Challenge (ASC25). 
+
+- *2025.03*: &nbsp;🎉🎉 I and our team (SHU Optimus) win the **First Prize** (NO.5 Worldwide) in the Preliminary Round of ASC 2025 Student Supercomputer Challenge (ASC25). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Under Review)</div><img src='images/gsit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/gsit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal Transformers are Hierarchical Modal-wise Heterogeneous Graphs]()
