@@ -56,9 +56,9 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 - *2025.05*: &nbsp;🎉🎉 GsiT accepted by ACL 2025 (main). 
 
-- *2025.05*: &nbsp;🎉🎉 I and our team (SHU Optimus) make it NO.7 Worldwide in the Final Round of ASC 2025 Student Supercomputer Challenge (ASC25). 
+- *2025.05*: &nbsp;🎉🎉 Our team (SHU Optimus) make it NO.7 Worldwide in the Final Round of ASC 2025 Student Supercomputer Challenge (ASC25). 
 
-- *2025.03*: &nbsp;🎉🎉 I and our team (SHU Optimus) win the **First Prize** (NO.5 Worldwide) in the Preliminary Round of ASC 2025 Student Supercomputer Challenge (ASC25). 
+- *2025.03*: &nbsp;🎉🎉 Our team (SHU Optimus) win the **First Prize** (NO.5 Worldwide) in the Preliminary Round of ASC 2025 Student Supercomputer Challenge (ASC25). 
 
 # 📝 Publications 
 
@@ -156,5 +156,7 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
   </ul>
 
   <h1>🧑‍🤝‍🧑Friends of Mine</h1>
+
+  [Jiayang Li](https://blog.errant.top/)
   
 </details>
