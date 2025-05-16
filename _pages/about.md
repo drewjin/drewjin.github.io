@@ -114,6 +114,7 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 - *2023.11 - (now)*, Research Assistant, LITS, Shanghai University, Shanghai, China.
 
+
 <details>
   <summary>Click to Explore More About Me</summary>
   
@@ -127,7 +128,7 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
   
   <h2>Music</h2>
   <p>
-    Honestly speaking, I love music, especially American music. *Listen to albums instead of singles*.
+    Honestly speaking, I love music, especially American music. <em>Listen to albums instead of singles</em>.
   </p>
   <ul>
     <li><strong>Pop</strong>: Taylor Swift, Ed Sheeran, Justin Bieber, etc.</li>
@@ -157,6 +158,5 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
   <h1>🧑‍🤝‍🧑Friends of Mine</h1>
 
-  [Jiayang Li](https://blog.errant.top/)
-  
+  <p><a href="https://blog.errant.top/">Jiayang Li</a></p>
 </details>
