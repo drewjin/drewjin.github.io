@@ -159,5 +159,5 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
   <h1>🧑‍🤝‍🧑Friends of Mine</h1>
 
   <p><a href="https://blog.errant.top/">Jiayang Li</a></p>
-  <p><a href="https://isaacghx.github.io/about/">Haoxiang Zhang</a></p>"
+  <p><a href="https://isaacghx.github.io/about/">Haoxiang Zhang</a></p>
 </details>
