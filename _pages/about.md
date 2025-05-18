@@ -156,7 +156,7 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
     <li><strong>Others</strong>: The Century Trilogy, and most of the classic books.</li>
   </ul>
 
-  <h1>🧑‍🤝‍🧑Friends of Mine</h1>
+  <h1>🧑‍🤝‍🧑 Friends of Mine</h1>
 
   <p><a href="https://blog.errant.top/">Jiayang Li</a></p>
   <p><a href="https://isaacghx.github.io/about/">Haoxiang Zhang</a></p>
