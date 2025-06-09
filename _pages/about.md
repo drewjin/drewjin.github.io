@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,21 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-> Two words, anxious, focus, break out, sink down, runaway, keep stay, feel it, try it, crush it, make it, everybody move. ------ imitating **Two Words, Kanye West**
+> Nothing Special...
 
 Hello there! My name is Yijie Jin (金义杰). I am currently an undergraduate student at the Department of Computer Science and Technology, School of Computer Engineering and Science, Shanghai University (SHU), supervised by Prof. [Junjie Peng](https://scholar.google.com/citations?hl=en&user=l7IPf0sAAAAJ&view_op=list_works&sortby=pubdate).
 
 My English name is **Drew**. In English-speaking contexts, I prefer to use Drew as my middle name, so my full name can be Yijie Drew Jin. Feel free to address me by any of these names—whether it’s Yijie, Drew, or Jin—I'm happy to respond to any of them!
 
-I am passionate about advancing **Machine Learning Systems (MLSys)**, with a strong focus on **Efficient Large Language Models (LLMs)**. Additionally, I used to explore **traditional NLP** and **multimodal learning**, particularly in the domain of **Multimodal Sentiment Analysis (MSA)**. My first paper, which integrates these research areas (both MLSys and MSA), has been submitted to **ACL 2025** and is currently under review, with a meta score 4 in ARR Dec. Round.
+I am passionate about advancing **Machine Learning Systems (MLSys)**, with a strong focus on **Efficient Large Language Models (LLMs)**. Additionally, I used to explore **traditional NLP** and **multimodal learning**, particularly in the domain of **Multimodal Sentiment Analysis (MSA)**.
 
 Recently,
 
-- I have been serving as a Research Intern with Prof. [Zhijie Deng](https://scholar.google.com/citations?user=J3dR0sUAAAAJ&hl=en) at Shanghai Jiaotong University (SJTU), diving into Edge LLM deployment with all sorts of LLM reasoning & inference optimization.
+- I have been serving as a Research Intern with Prof. [Zhijie Deng](https://scholar.google.com/citations?user=J3dR0sUAAAAJ&hl=en) at Shanghai Jiaotong University (SJTU).
 
-- Currently learning all kinds of stacks: 
+- Currently learning all kinds of stacks:
+
   - **Lang**: Triton, CPP (keeps on learning, diving in), Golang in backend development, Vue in frontend development.
-  - **MLSys/Efficient LLMs**: parallel decoding, efficient reasoning, kv compression, etc. (hard! hard! hard!)
+  - **MLSys/Efficient LLMs**: parallel decoding, efficient reasoning, kv compression, etc.
   - **LLM Reasoning**: all kinds of reasoning tasks, especially reasoning pruning.
 
 - Planning to learn: Ray, TileLang, practice my leetcode ablitiy, etc.
@@ -44,7 +45,7 @@ Recently,
 
 - **Frameworks**: Skillful PyTorch; Naive LibTorch, JAX + Haiku, Triton; Learning Gin + Gorm, Vue
 
-- **Tools**: All toolchains in Visual Studio Code; vscode-clangd-CMake-toolchain, Git, Linux, MacOS (UNIX), Docker
+- **Tools**: All toolchains in Visual Studio Code; vscode-clangd-CMake-toolchain, Git, Linux, MacOS (UNIX), Docker, SLURM.
 
 # 🤓 Blogs
 
@@ -54,13 +55,13 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 # 🔥 News
 
-- *2025.05*: &nbsp;🎉🎉 GsiT accepted by ACL 2025 (main). 
+- _2025.05_: &nbsp;🎉🎉 GsiT accepted by ACL 2025 (main).
 
-- *2025.05*: &nbsp;🎉🎉 Our team (SHU Optimus) make it NO.7 Worldwide in the Final Round of ASC 2025 Student Supercomputer Challenge (ASC25). 
+- _2025.05_: &nbsp;🎉🎉 Our team (SHU Optimus) make it NO.7 Worldwide in the Final Round of ASC 2025 Student Supercomputer Challenge (ASC25).
 
-- *2025.03*: &nbsp;🎉🎉 Our team (SHU Optimus) win the **First Prize** (NO.5 Worldwide) in the Preliminary Round of ASC 2025 Student Supercomputer Challenge (ASC25). 
+- _2025.03_: &nbsp;🎉🎉 Our team (SHU Optimus) win the **First Prize** (NO.5 Worldwide) in the Preliminary Round of ASC 2025 Student Supercomputer Challenge (ASC25).
 
-# 📝 Publications 
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/gsit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,6 +71,7 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 **Yijie Jin**, Junjie Peng, Xuanchao Lin, Haochen Yuan, Lan Wang, Cangzhi Zheng
 
 [**Project**](https://github.com/drewjin/GsiT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - **Efficiency and Effectiveness**: 1/3 number of parameters without additional computational overhead compared with traditional MulTs.
 - Modal-wise Block-Sparse Attention and All-Modal-In-One Fusion.
 </div>
@@ -79,41 +81,40 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 # 🎖 Honors and Awards
 
-- *2025.03* **First Prize** of 2025 Asia Supercomputer Community Student Supercomputer Challenge (ASC25, NO.5 Worldwide Preliminary Round, NO.7 Worldwide Final Round). 
+- _2025.03_ **First Prize** of 2025 Asia Supercomputer Community Student Supercomputer Challenge (ASC25, NO.5 Worldwide Preliminary Round, NO.7 Worldwide Final Round).
 
-- *2024.11* **Second Prize** of Shanghai Area in The 2024 China Undergraduate Mathematical Contest in Modeling (CUMCM 2024).
+- _2024.11_ **Second Prize** of Shanghai Area in The 2024 China Undergraduate Mathematical Contest in Modeling (CUMCM 2024).
 
-- *2024.11* Shanghai University Academic Excellence **First-class** Scholarship. 
+- _2024.11_ Shanghai University Academic Excellence **First-class** Scholarship.
 
-- *2024.08* **First Prize** of The 14th Asia and Pacific Mathematical Contest in Modeling (APMCM 2024). 
+- _2024.08_ **First Prize** of The 14th Asia and Pacific Mathematical Contest in Modeling (APMCM 2024).
 
-- *2023.11* Shanghai University Academic Excellence **Top-class** Scholarship (Rank 15 in 1500). 
+- _2023.11_ Shanghai University Academic Excellence **Top-class** Scholarship (Rank 15 in 1500).
 
 # 📖 Educations
 
-- *2022.09 - (now)*, Undergrad., Shanghai University. 
+- _2022.09 - (now)_, Undergrad., Shanghai University.
 
-- *2019.09 - 2022.07*, Senior High., The Affiliated High School of Sichuan University (Chengdu NO.12 High School). 
+- _2019.09 - 2022.07_, Senior High., The Affiliated High School of Sichuan University (Chengdu NO.12 High School).
 
-- *2016.09 - 2019.07*, Junior High., Chengdu No.7 High School (Chengdu High School).
+- _2016.09 - 2019.07_, Junior High., Chengdu No.7 High School (Chengdu High School).
 
-- *2010.09 - 2016.07*, Primary School, Chengdu Paotongshu Primary School.
-
+- _2010.09 - 2016.07_, Primary School, Chengdu Paotongshu Primary School.
 
 # 💬 Invited Talks
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-- Still working on it. 
+- Still working on it.
 
 # 💻 Internships
 
-- *2025.03 - (now)*, Research Intern, SJTU DengLab, Shanghai Jiaotong University, Shanghai, China.
+- _2025.03 - (now)_, Research Intern, SJTU DengLab, Shanghai Jiaotong University, Shanghai, China.
 
-- *2024.10 - 2024.12*, Research Intern, NLP Group, Hongkong University of Science and Technology Guangzhou (HKUST-gz), Guangzhou, China.
+- _2024.10 - 2024.12_, Research Intern, NLP Group, Hongkong University of Science and Technology Guangzhou (HKUST-gz), Guangzhou, China.
 
-- *2023.11 - (now)*, Research Assistant, LITS, Shanghai University, Shanghai, China.
-
+- _2023.11 - (now)_, Research Assistant, LITS, Shanghai University, Shanghai, China.
 
 <details>
   <summary>Click to Explore More About Me</summary>
