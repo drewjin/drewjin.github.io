@@ -53,6 +53,8 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 
 > I regularly update my blog with a variety of content, including experience sharing, technical coding tutorials, academic paper discussions, personal career insights, and casual life reflections—all written in a relaxed and conversational style.
 
+I'm also maintaining the [MLSys Wiki](https://www.notion.so/1466c8eb3813801baed2e5e09c7f7bb5?v=2166c8eb38138009b1cb000c06c1477e&source=copy_link) for self-learning and sharing technical insights.
+
 # 🔥 News
 
 - _2025.05_: &nbsp;🎉🎉 GsiT accepted by ACL 2025 (main).
