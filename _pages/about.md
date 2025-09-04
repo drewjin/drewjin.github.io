@@ -23,6 +23,7 @@ Hello there! My name is Yijie Jin (金义杰). I am currently an undergraduate s
 
 My English name is **Drew**. In English-speaking contexts, I prefer to use Drew as my middle name, so my full name can be Yijie Drew Jin. Feel free to address me by any of these names—whether it’s Yijie, Drew, or Jin—I'm happy to respond to any of them!
 
+<<<<<<< HEAD
 I am passionate about advancing **Machine Learning Systems (MLSys)**, with a strong focus on **Efficient Large Language Models (LLMs)**. Additionally, I used to explore **traditional NLP** and **multimodal learning**, particularly in the domain of **Multimodal Sentiment Analysis (MSA)**.
 
 Recently,
@@ -30,9 +31,20 @@ Recently,
 - I have been serving as a Research Intern with Prof. [Zhijie Deng](https://scholar.google.com/citations?user=J3dR0sUAAAAJ&hl=en) at Shanghai Jiaotong University (SJTU).
 
 - Currently learning all kinds of stacks:
+=======
+I am passionate about advancing **Machine Learning Systems (MLSys)**, with a strong focus on **Efficient Large Language Models (LLMs)**. Additionally, I used to explore **traditional NLP** and **multimodal learning**, particularly in the domain of **Multimodal Sentiment Analysis (MSA)**. 
+
+Recently,
+
+- I have been serving as a Research Intern with Prof. [Zhijie Deng](https://scholar.google.com/citations?user=J3dR0sUAAAAJ&hl=en) at Shanghai Jiaotong University (SJTU). I am working on D2fEngine with all my efforts recently, which is the first open-sourced vLLM for dLLMs worldwide.
+>>>>>>> 36c0357 (	modified:   _pages/about.md)
 
   - **Lang**: Triton, CPP (keeps on learning, diving in), Golang in backend development, Vue in frontend development.
+<<<<<<< HEAD
   - **MLSys/Efficient LLMs**: parallel decoding, efficient reasoning, kv compression, etc.
+=======
+  - **MLSys/Efficient LLMs**: dllm inference optimization, parallel decoding, efficient reasoning, kv compression, etc. (hard! hard! hard!)
+>>>>>>> 36c0357 (	modified:   _pages/about.md)
   - **LLM Reasoning**: all kinds of reasoning tasks, especially reasoning pruning.
 
 - Planning to learn: Ray, TileLang, practice my leetcode ablitiy, etc.
@@ -57,7 +69,13 @@ I'm also maintaining the [MLSys Wiki](https://www.notion.so/1466c8eb3813801baed2
 
 # 🔥 News
 
+<<<<<<< HEAD
 - _2025.05_: &nbsp;🎉🎉 GsiT accepted by ACL 2025 (main).
+=======
+- *2025.08*: &nbsp;🎉🎉 Drew was invited to have a talk on D2fEngine on vLLM Shenzhen Meetup. 
+
+- *2025.05*: &nbsp;🎉🎉 GsiT accepted by ACL 2025 (main). 
+>>>>>>> 36c0357 (	modified:   _pages/about.md)
 
 - _2025.05_: &nbsp;🎉🎉 Our team (SHU Optimus) make it NO.7 Worldwide in the Final Round of ASC 2025 Student Supercomputer Challenge (ASC25).
 
@@ -65,10 +83,25 @@ I'm also maintaining the [MLSys Wiki](https://www.notion.so/1466c8eb3813801baed2
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='images/gsit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/d2f_inference.png' alt="sym" width="60%"><img src='../images/d2f_train.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multimodal Transformers are Hierarchical Modal-wise Heterogeneous Graphs]()
+
+[Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing](https://arxiv.org/abs/2505.01068)
+
+Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
+
+[**Project**](https://github.com/zhijie-group/Discrete-Diffusion-Forcing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 50x Faster than LLaDA
+- 2x Faster than AR models
+- D2fEngine (vLLM for dLLMs)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='../images/gsit.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal Transformers are Hierarchical Modal-wise Heterogeneous Graphs](https://aclanthology.org/2025.acl-long.109/)
 
 **Yijie Jin**, Junjie Peng, Xuanchao Lin, Haochen Yuan, Lan Wang, Cangzhi Zheng
 
@@ -108,7 +141,11 @@ I'm also maintaining the [MLSys Wiki](https://www.notion.so/1466c8eb3813801baed2
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+<<<<<<< HEAD
 - Still working on it.
+=======
+- *2025.08*, vLLM Shenzhen Meetup, Drew gave a talk on D2fEngine (the first vLLM implementation for dLLMs in open-source community).
+>>>>>>> 36c0357 (	modified:   _pages/about.md)
 
 # 💻 Internships
 
