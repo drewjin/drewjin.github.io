@@ -127,7 +127,7 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 
 # 💻 Internships
 
-- _2025.03 - (now)_, Research Intern, SJTU DengLab, Shanghai Jiaotong University, Shanghai, China.
+- _2025.03 - (now)_, Research Intern, SJTU DENG Lab, Shanghai Jiaotong University, Shanghai, China.
 
 - _2024.10 - 2024.12_, Research Intern, NLP Group, Hongkong University of Science and Technology Guangzhou (HKUST-gz), Guangzhou, China.
 
