@@ -65,7 +65,7 @@ I'm also maintaining the [MLSys Wiki](https://www.notion.so/1466c8eb3813801baed2
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/d2f_inference.png' alt="sym" width="60%"><img src='../images/d2f_train.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='../images/d2f_inference.png' alt="sym" width="70%"><img src='../images/d2f_train.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -80,7 +80,7 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='../images/gsit.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='../images/gsit.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal Transformers are Hierarchical Modal-wise Heterogeneous Graphs](https://aclanthology.org/2025.acl-long.109/)
