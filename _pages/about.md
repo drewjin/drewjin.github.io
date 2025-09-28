@@ -19,19 +19,18 @@ redirect_from:
 
 > Nothing Special...
 
-Hello there! My name is Yijie Jin (金义杰). I am currently an undergraduate student at the Department of Computer Science and Technology, School of Computer Engineering and Science, Shanghai University (SHU), supervised by Prof. [Junjie Peng](https://scholar.google.com/citations?hl=en&user=l7IPf0sAAAAJ&view_op=list_works&sortby=pubdate).
+Hello there! My name is **Yijie Jin** (金义杰). I am currently an incoming Ph.D. student at Qingyuan Research Institute, School of Computer Science, Shanghai Jiaotong Univerisity (SJTU), supervised by Prof. [Zhijie Deng](https://scholar.google.com/citations?user=J3dR0sUAAAAJ&hl=en). Also, I am an Undergrad. student at the Department of Computer Science and Technology, School of Computer Engineering and Science, Shanghai University (SHU), supervised by Prof. [Junjie Peng](https://scholar.google.com/citations?hl=en&user=l7IPf0sAAAAJ&view_op=list_works&sortby=pubdate).
 
 My English name is **Drew**. In English-speaking contexts, I prefer to use Drew as my middle name, so my full name can be Yijie Drew Jin. Feel free to address me by any of these names—whether it’s Yijie, Drew, or Jin—I'm happy to respond to any of them!
 
-I am passionate about advancing **Machine Learning Systems (MLSys)**, with a strong focus on **Efficient Large Language Models (LLMs)**. Additionally, I used to explore **traditional NLP** and **multimodal learning**, particularly in the domain of **Multimodal Sentiment Analysis (MSA)**. 
+I am passionate about advancing **Machine Learning Systems (MLSys)**, with a strong focus on **Efficient Generative AI**. Additionally, I used to explore **traditional NLP** and **multimodal learning**, particularly in the domain of **Multimodal Sentiment Analysis (MSA)**. 
 
 Recently,
 
-- I have been serving as a Research Intern with Prof. [Zhijie Deng](https://scholar.google.com/citations?user=J3dR0sUAAAAJ&hl=en) at Shanghai Jiaotong University (SJTU). I am working on D2fEngine with all my efforts recently, which is the first open-sourced vLLM for dLLMs worldwide.
+- I am working on D2fEngine with all my efforts recently, which is the first open-sourced vLLM for dLLMs worldwide.
 
   - **Lang**: Triton, CPP (keeps on learning, diving in), Golang in backend development, Vue in frontend development.
-  - **MLSys/Efficient LLMs**: dllm inference optimization, parallel decoding, efficient reasoning, kv compression, etc. (hard! hard! hard!)
-  - **LLM Reasoning**: all kinds of reasoning tasks, especially reasoning pruning.
+  - **MLSys/Efficient LLMs**: dLLM inference optimization, parallel decoding, efficient reasoning, kv cache compression, etc.
 
 - Planning to learn: Ray, TileLang, practice my leetcode ablitiy, etc.
 
@@ -54,6 +53,8 @@ All my blogs are posted on **Zhihu**. Feel free to follow me: [Drew](https://www
 I'm also maintaining the [MLSys Wiki](https://www.notion.so/1466c8eb3813801baed2e5e09c7f7bb5?v=2166c8eb38138009b1cb000c06c1477e&source=copy_link) for self-learning and sharing technical insights.
 
 # 🔥 News
+
+- *2025.09*: &nbsp;🎉🎉 Drew was luckily admitted as a Ph.D. candidate at Qingyuan Research Institute, School of Computer Science, Shanghai Jiao Tong University, and officially entered [DENG Lab @ SJTU](https://zhijie-group.github.io/).
 
 - *2025.08*: &nbsp;🎉🎉 Drew was invited to have a talk on D2fEngine on vLLM Shenzhen Meetup. 
 
@@ -110,6 +111,8 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 
 # 📖 Educations
 
+- incoming, Ph.D. Student, Shanghai Jiaotong University.
+
 - _2022.09 - (now)_, Undergrad., Shanghai University.
 
 - _2019.09 - 2022.07_, Senior High., The Affiliated High School of Sichuan University (Chengdu NO.12 High School).
@@ -127,7 +130,7 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 
 # 💻 Internships
 
-- _2025.03 - (now)_, Research Intern, SJTU DENG Lab, Shanghai Jiaotong University, Shanghai, China.
+- _2025.03 - 2025.09_, Research Intern, DENG Lab @ SJTU, Shanghai Jiaotong University, Shanghai, China.
 
 - _2024.10 - 2024.12_, Research Intern, NLP Group, Hongkong University of Science and Technology Guangzhou (HKUST-gz), Guangzhou, China.
 
