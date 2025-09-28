@@ -117,7 +117,7 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 
 - _2019.09 - 2022.07_, Senior High., The Affiliated High School of Sichuan University (Chengdu NO.12 High School).
 
-- _2016.09 - 2019.07_, Junior High., Chengdu No.7 High School (Chengdu High School).
+- _2016.09 - 2019.07_, Junior High., Chengdu NO.7 High School (Chengdu High School).
 
 - _2010.09 - 2016.07_, Primary School, Chengdu Paotongshu Primary School.
 
