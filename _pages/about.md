@@ -19,9 +19,9 @@ redirect_from:
 
 > Nothing Special...
 
-Hello there! My name is **Yijie Jin**. I am currently an incoming Ph.D. student at Qingyuan Research Institute, School of Computer Science, Shanghai Jiaotong Univerisity (SJTU), supervised by Prof. [Zhijie Deng](https://scholar.google.com/citations?user=J3dR0sUAAAAJ&hl=en). Also, I am an Undergrad. student at the Department of Computer Science and Technology, School of Computer Engineering and Science, Shanghai University (SHU), supervised by Prof. [Junjie Peng](https://scholar.google.com/citations?hl=en&user=l7IPf0sAAAAJ&view_op=list_works&sortby=pubdate).
+Hello there! My name is **Yijie Jin**. I am currently an incoming Ph.D. student at Qingyuan Research Institute, School of Computer Science, Shanghai Jiaotong Univerisity (SJTU). Also, I am now an Undergrad. student at the Department of Computer Science and Technology, School of Computer Engineering and Science, Shanghai University (SHU).
 
-My English name is **Drew**. In English-speaking contexts, I prefer to use Drew as my middle name, so my full name can be Drew Yijie Jin (Drew Y. JIN). Feel free to address me by any of these names—whether it’s Yijie, Drew, or Jin—I'm happy to respond to any of them!
+My English name is **Drew**. In English-speaking contexts, I prefer to use Drew as my first name, so my full name can be Drew Yijie Jin (Drew Y. JIN). Feel free to address me by any of these names—whether it’s Yijie, Drew, or Jin—I'm happy to respond to any of them!
 
 I am passionate about advancing **Machine Learning Systems (MLSys)**, with a strong focus on **Efficient Generative AI**. Additionally, I used to explore **traditional NLP** and **multimodal learning**, particularly in the domain of **Multimodal Sentiment Analysis (MSA)**. 
 
@@ -35,6 +35,12 @@ Recently,
 - Planning to learn: Ray, TileLang, practice my leetcode ablitiy, etc.
 
 - Projects planning to work on: minitorch.
+
+# 🧑‍🏫 Advisors
+
+- **Ph.D. Advisor**: Prof. [Zhijie Deng](https://scholar.google.com/citations?user=Hk1b2XUAAAAJ&hl=en).
+
+- **B.Eng. Supervisor**: Prof. [Junjie Peng](https://scholar.google.com/citations?hl=en&user=l7IPf0sAAAAJ&view_op=list_works&sortby=pubdate).
 
 # 🤔 Skills
 
