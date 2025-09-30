@@ -38,7 +38,7 @@ Recently,
 
 # 🧑‍🏫 Advisors
 
-- **Ph.D. Advisor**: Prof. [Zhijie Deng](https://scholar.google.com/citations?user=Hk1b2XUAAAAJ&hl=en).
+- **Ph.D. Advisor**: Prof. [Zhijie Deng](https://thudzj.github.io/).
 
 - **B.Eng. Supervisor**: Prof. [Junjie Peng](https://scholar.google.com/citations?hl=en&user=l7IPf0sAAAAJ&view_op=list_works&sortby=pubdate).
 
