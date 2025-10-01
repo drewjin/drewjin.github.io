@@ -121,7 +121,7 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 
 - _2022.09 - (now)_, Undergrad., Shanghai University.
 
-- _2019.09 - 2022.07_, Senior High., The Affiliated High School of Sichuan University (Chengdu NO.12 High School).
+- _2019.09 - 2022.07_, Senior High., Chengdu NO.12 High School (The Affiliated High School of Sichuan University).
 
 - _2016.09 - 2019.07_, Junior High., Chengdu NO.7 High School (Chengdu High School).
 
