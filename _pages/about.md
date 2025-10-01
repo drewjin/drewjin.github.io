@@ -117,7 +117,7 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 
 # 📖 Educations
 
-- incoming, Ph.D. Student, Shanghai Jiaotong University.
+- incoming, Ph.D. Student, Shanghai Jiao Tong University.
 
 - _2022.09 - (now)_, Undergrad., Shanghai University.
 
@@ -136,7 +136,7 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 
 # 💻 Internships
 
-- _2025.03 - 2025.09_, Research Intern, DENG Lab @ SJTU, Shanghai Jiaotong University, Shanghai, China.
+- _2025.03 - 2025.09_, Research Intern, DENG Lab @ SJTU, Shanghai Jiao Tong University, Shanghai, China.
 
 - _2024.10 - 2024.12_, Research Intern, NLP Group, Hongkong University of Science and Technology Guangzhou (HKUST-gz), Guangzhou, China.
 
