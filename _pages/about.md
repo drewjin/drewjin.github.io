@@ -85,6 +85,7 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 - 2x Faster than AR models
 - D2fEngine (vLLM for dLLMs)
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='../images/gsit.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,6 +98,7 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 
 - **Efficiency and Effectiveness**: 1/3 number of parameters without additional computational overhead compared with traditional MulTs.
 - Modal-wise Block-Sparse Attention and All-Modal-In-One Fusion.
+</div>
 </div>
 
 # 💬 Invited Talks
@@ -113,7 +115,7 @@ Chenkai Xu and **Yijie Jin**
 - *2025.08*, vLLM Shenzhen Meetup, Drew gave a talk on D2fEngine (the first vLLM implementation for dLLMs in open-source community).
 
 </div>
-
+</div>
 
 
 
