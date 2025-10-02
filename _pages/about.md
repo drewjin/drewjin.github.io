@@ -85,7 +85,6 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 - 2x Faster than AR models
 - D2fEngine (vLLM for dLLMs)
 </div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Main)</div><img src='../images/gsit.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -99,9 +98,25 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 - **Efficiency and Effectiveness**: 1/3 number of parameters without additional computational overhead compared with traditional MulTs.
 - Modal-wise Block-Sparse Attention and All-Modal-In-One Fusion.
 </div>
+
+# 💬 Invited Talks
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 vLLM Shenzhen Meetup</div><img src='../images/2025-vllm-shenzhen-meetup.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Discrete Diffusion Forcing (D2F)](https://drive.google.com/drive/folders/1Ua2SVKVSu-wp5vou_6ElraDt2bnKhiEA)
+
+Chenkai Xu and **Yijie Jin**
+
+[**Report**](https://mp.weixin.qq.com/s/k8ZBO1u2_2odgiKWH_GVTQ) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- *2025.08*, vLLM Shenzhen Meetup, Drew gave a talk on D2fEngine (the first vLLM implementation for dLLMs in open-source community).
+
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+
 
 # 🎖 Honors and Awards
 
@@ -126,13 +141,6 @@ Xu Wang, Chenkai Xu, **Yijie Jin**, Jiachun Jin, Hao Zhang, Zhijie Deng
 - _2016.09 - 2019.07_, Junior High., Chengdu NO.7 High School (Chengdu High School).
 
 - _2010.09 - 2016.07_, Primary School, Chengdu Paotongshu Primary School.
-
-# 💬 Invited Talks
-
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-- *2025.08*, vLLM Shenzhen Meetup, Drew gave a talk on D2fEngine (the first vLLM implementation for dLLMs in open-source community).
 
 # 💻 Internships
 
