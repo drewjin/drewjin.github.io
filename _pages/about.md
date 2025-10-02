@@ -19,7 +19,7 @@ redirect_from:
 
 > Nothing Special...
 
-Hello there! My name is **Yijie Jin**. I am currently an incoming Ph.D. student at Qingyuan Research Institute, School of Computer Science, Shanghai Jiaotong Univerisity (SJTU). Also, I am now an Undergrad. student at the Department of Computer Science and Technology, School of Computer Engineering and Science, Shanghai University (SHU).
+Hello there! My name is **Yijie Jin**. I am currently an incoming Ph.D. student at Qingyuan Research Institute, School of Computer Science, Shanghai Jiao Tong University (SJTU). Also, I am now an Undergrad. student at the Department of Computer Science and Technology, School of Computer Engineering and Science, Shanghai University (SHU).
 
 My English name is **Drew**. In English-speaking contexts, I prefer to use Drew as my first name, so my full name can be Drew Yijie Jin (Drew Y. JIN). Feel free to address me by any of these names—whether it’s Yijie, Drew, or Jin—I'm happy to respond to any of them!
 
