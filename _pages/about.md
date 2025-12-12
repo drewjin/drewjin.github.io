@@ -60,6 +60,8 @@ I'm also maintaining the [MLSys Wiki](https://www.notion.so/1466c8eb3813801baed2
 
 # 🔥 News
 
+- *2025.12*: &nbsp;🎉🎉 Drew was invited to have a talk on his story with ASC on ASC 2026 Campus Tour (Shanghai) at Shanghai Jiao Tong University. 
+
 - *2025.09*: &nbsp;🎉🎉 Drew was luckily admitted as a Ph.D. candidate at Qingyuan Research Institute, School of Computer Science, Shanghai Jiao Tong University, and officially entered [DENG Lab @ SJTU](https://zhijie-group.github.io/).
 
 - *2025.08*: &nbsp;🎉🎉 Drew was invited to have a talk on D2fEngine on vLLM Shenzhen Meetup. 
