@@ -117,14 +117,14 @@ Chenkai Xu and **Yijie Jin**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASC Campus Tour (Shanghai) – 2026 ASC Student Supercomputer Challenge Information Session</div><img src='../images/asc_shanghai_campus_tour.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASC 2026 Campus Tour (Shanghai)</div><img src='../images/asc_shanghai_campus_tour.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ASC 25: a Story**](https://mp.weixin.qq.com/s/goE_1nils1y5DbJqM5kfIA)
 
 **Yijie Jin**
 
-- *2025.08*, ASC Campus Tour (Shanghai), Drew gave a talk on his story with ASC.
+- *2025.08*, ASC 2026 Campus Tour (Shanghai): 2026 ASC Student Supercomputer Challenge Information Session, at Shanghai Jiao Tong University, Drew gave a talk on his story with ASC.
 
 </div>
 </div>
